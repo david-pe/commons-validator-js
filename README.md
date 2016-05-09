@@ -1,6 +1,6 @@
 # commons-validator-js
 
-[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url]
+[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Bower version][bower-image]]
 
 JavaScript port of [Apache Commons Validator](https://commons.apache.org/proper/commons-validator/).
 
